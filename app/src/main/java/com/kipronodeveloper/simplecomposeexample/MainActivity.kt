@@ -38,6 +38,7 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     SimpleComposeExampleTheme {
+
         Greeting("Android")
     }
 }
